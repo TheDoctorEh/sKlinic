@@ -1,7 +1,7 @@
 class CfgPatches {
     class sKlinic{
         requiredAddons[] = {
-            //"sGunplay",
+            "sGunplay",
             //"sSurvival",
             //"etc...",
             "sVisual"
