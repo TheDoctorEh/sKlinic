@@ -2,7 +2,7 @@ modded class SUserConfigGunplay{
     
     //your default values here
     void SUserConfigGunplay(){
-            adsDOFIntensity   = 2.0;
+            adsDOFIntensity   = 0.4;
             lensZoomStrength  = 0.75;
             resetDeadzoneOnFocus = true;
             showDynamicCrosshair = false;
